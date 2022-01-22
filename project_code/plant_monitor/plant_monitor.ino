@@ -1,3 +1,4 @@
+//#code_BY_M.SIVA KRISHNA
 #include "DHT.h"
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -101,5 +102,5 @@ void loop() {
   sendSensor();
   moist();
  
-
+//#code_BY_M.SIVA KRISHNA
 }
